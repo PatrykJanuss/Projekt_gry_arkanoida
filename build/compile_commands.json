@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/gra_autogen/mocs_compilation.cpp.o -c /home/patryk/OBRAZ_REKA/build/gra_autogen/mocs_compilation.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/build/gra_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/gra.dir/gra_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/main.cpp.o -c /home/patryk/OBRAZ_REKA/main.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/main.cpp",
+  "output": "CMakeFiles/gra.dir/main.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/licznik.cpp.o -c /home/patryk/OBRAZ_REKA/licznik.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/licznik.cpp",
+  "output": "CMakeFiles/gra.dir/licznik.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/ball.cpp.o -c /home/patryk/OBRAZ_REKA/ball.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/ball.cpp",
+  "output": "CMakeFiles/gra.dir/ball.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/belka.cpp.o -c /home/patryk/OBRAZ_REKA/belka.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/belka.cpp",
+  "output": "CMakeFiles/gra.dir/belka.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/bloczki.cpp.o -c /home/patryk/OBRAZ_REKA/bloczki.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/bloczki.cpp",
+  "output": "CMakeFiles/gra.dir/bloczki.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/gra_qmltyperegistrations.cpp.o -c /home/patryk/OBRAZ_REKA/build/gra_qmltyperegistrations.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/build/gra_qmltyperegistrations.cpp",
+  "output": "CMakeFiles/gra.dir/gra_qmltyperegistrations.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/build/.qt/rcc/qrc_qmake_ModulGry.cpp.o -c /home/patryk/OBRAZ_REKA/build/.qt/rcc/qrc_qmake_ModulGry.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/build/.qt/rcc/qrc_qmake_ModulGry.cpp",
+  "output": "CMakeFiles/gra.dir/build/.qt/rcc/qrc_qmake_ModulGry.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/build/.rcc/qmlcache/gra_qmlcache_loader.cpp.o -c /home/patryk/OBRAZ_REKA/build/.rcc/qmlcache/gra_qmlcache_loader.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/build/.rcc/qmlcache/gra_qmlcache_loader.cpp",
+  "output": "CMakeFiles/gra.dir/build/.rcc/qmlcache/gra_qmlcache_loader.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/build/.rcc/qmlcache/gra_plik2_qml.cpp.o -c /home/patryk/OBRAZ_REKA/build/.rcc/qmlcache/gra_plik2_qml.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/build/.rcc/qmlcache/gra_plik2_qml.cpp",
+  "output": "CMakeFiles/gra.dir/build/.rcc/qmlcache/gra_plik2_qml.cpp.o"
+},
+{
+  "directory": "/home/patryk/OBRAZ_REKA/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I/home/patryk/OBRAZ_REKA/build/gra_autogen/include -I/home/patryk/OBRAZ_REKA -isystem /usr/include/x86_64-linux-gnu/qt6/QtQml -isystem /usr/include/x86_64-linux-gnu/qt6 -isystem /usr/include/x86_64-linux-gnu/qt6/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt6/QtQmlIntegration -isystem /usr/include/x86_64-linux-gnu/qt6/QtNetwork -isystem /usr/include/x86_64-linux-gnu/qt6/QtGui -isystem /usr/include/x86_64-linux-gnu/qt6/QtQuick -isystem /usr/include/x86_64-linux-gnu/qt6/QtOpenGL -g -std=gnu++17 -o CMakeFiles/gra.dir/build/.qt/rcc/qrc_gra_raw_qml_0.cpp.o -c /home/patryk/OBRAZ_REKA/build/.qt/rcc/qrc_gra_raw_qml_0.cpp",
+  "file": "/home/patryk/OBRAZ_REKA/build/.qt/rcc/qrc_gra_raw_qml_0.cpp",
+  "output": "CMakeFiles/gra.dir/build/.qt/rcc/qrc_gra_raw_qml_0.cpp.o"
+}
+]

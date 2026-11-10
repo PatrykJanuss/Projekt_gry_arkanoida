@@ -1,0 +1,112 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "RUCH_BELKA",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "szer_apka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wys_apka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "szer_belka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wys_belka",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 18,
+                    "name": "pozycja_belka",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "kierunek_ruchu",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 2,
+                    "lineNumber": 21,
+                    "name": "sterowanie_belka",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "lineNumber": 22,
+                    "name": "zresetuj_polozenie_belki",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 11,
+                    "name": "pozycja_belka_x",
+                    "notify": "pozycja_znaleziona",
+                    "read": "czytaj_belka_x",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 12,
+                    "name": "pozycja_belka_y",
+                    "notify": "pozycja_znaleziona",
+                    "read": "czytaj_belka_y",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "RUCH_BELKA",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 25,
+                    "name": "pozycja_znaleziona",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "belka.hpp",
+    "outputRevision": 69
+}

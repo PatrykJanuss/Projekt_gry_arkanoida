@@ -1,0 +1,95 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "Klasa_wyswietlacz",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 18,
+                    "name": "zmien_status_poziom",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "lineNumber": 19,
+                    "name": "zmien_status_zycia",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "lineNumber": 20,
+                    "name": "zmien_status_punkty",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 11,
+                    "name": "punktacja",
+                    "notify": "dodano_punkty",
+                    "read": "czytaj_punktacja",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 12,
+                    "name": "biezacy_licznik",
+                    "notify": "licznik_zmienione",
+                    "read": "czytaj_licznik",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Klasa_wyswietlacz",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 22,
+                    "name": "licznik_zmienione",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 23,
+                    "name": "dodano_punkty",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "licznik.hpp",
+    "outputRevision": 69
+}

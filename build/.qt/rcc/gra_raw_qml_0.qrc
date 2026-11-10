@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/ModulGry/">
+    <file alias="plik2.qml">/home/patryk/OBRAZ_REKA/plik2.qml</file>
+  </qresource>
+</RCC>
+

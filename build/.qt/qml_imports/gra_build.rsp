@@ -1,0 +1,14 @@
+-rootPath
+/home/patryk/OBRAZ_REKA
+-cmake-output
+-output-file
+/home/patryk/OBRAZ_REKA/build/.qt/qml_imports/gra_build.cmake
+-importPath
+/home/patryk/OBRAZ_REKA/build
+-importPath
+/home/patryk/OBRAZ_REKA/build/ModulGry
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/patryk/OBRAZ_REKA/build/.qt/rcc/qmake_ModulGry.qrc
+/home/patryk/OBRAZ_REKA/build/.qt/rcc/gra_raw_qml_0.qrc

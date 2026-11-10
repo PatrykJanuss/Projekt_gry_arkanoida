@@ -1,0 +1,33 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "KlasaLogiki",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 14,
+                    "name": "wykonaj_akcje",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "KlasaLogiki",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "plik1.hpp",
+    "outputRevision": 69
+}

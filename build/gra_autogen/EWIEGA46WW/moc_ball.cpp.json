@@ -1,0 +1,192 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "Klasa_ruch_pilki",
+            "lineNumber": 51,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 5,
+                    "lineNumber": 63,
+                    "name": "wystrzel_pilke",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "pozycja_belki_x",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 6,
+                    "lineNumber": 64,
+                    "name": "szukaj_pozycja_belka",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "szerokosc_apka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wysokosc_apka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "szerokosc_bloczek",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wysokosc_bloczek",
+                            "type": "double"
+                        },
+                        {
+                            "name": "szerokosc_belka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wysokosc_belka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "szerokosc_pilka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wysokosc_pilka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "kolumny_bloczki",
+                            "type": "double"
+                        },
+                        {
+                            "name": "rozstaw_bloczki",
+                            "type": "double"
+                        },
+                        {
+                            "name": "szerokosc_licznik",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wysokosc_licznik",
+                            "type": "double"
+                        },
+                        {
+                            "name": "ilosc_bloczki",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 7,
+                    "lineNumber": 65,
+                    "name": "wymiaryObiektow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 8,
+                    "lineNumber": 73,
+                    "name": "odbicie_belka",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 9,
+                    "lineNumber": 74,
+                    "name": "odworc_predkosc_y",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 55,
+                    "name": "pozycja_x",
+                    "notify": "pozycja_zmieniona",
+                    "read": "czytaj_x",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 56,
+                    "name": "pozycja_y",
+                    "notify": "pozycja_zmieniona",
+                    "read": "czytaj_y",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Klasa_ruch_pilki",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 79,
+                    "name": "pozycja_zmieniona",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 80,
+                    "name": "sygnal_koniec_gry",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 2,
+                    "lineNumber": 82,
+                    "name": "ruch_pilki",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 3,
+                    "lineNumber": 83,
+                    "name": "odbicie_gora",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "index": 4,
+                    "lineNumber": 84,
+                    "name": "odbicie_sciana",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ball.hpp",
+    "outputRevision": 69
+}

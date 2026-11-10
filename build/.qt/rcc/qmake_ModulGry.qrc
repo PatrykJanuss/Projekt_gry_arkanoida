@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/ModulGry">
+    <file alias="qmldir">/home/patryk/OBRAZ_REKA/build/ModulGry/qmldir</file>
+  </qresource>
+</RCC>
+

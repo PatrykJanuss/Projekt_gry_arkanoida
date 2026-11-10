@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/ModulGry">/home/patryk/OBRAZ_REKA/build/ModulGry</file>
+
+  </qresource>
+</RCC>

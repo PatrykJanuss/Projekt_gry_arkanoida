@@ -1,0 +1,4 @@
+/home/patryk/OBRAZ_REKA/build/gra_autogen/include/../EWIEGA46WW/moc_ball.cpp.json
+/home/patryk/OBRAZ_REKA/build/gra_autogen/include/../EWIEGA46WW/moc_belka.cpp.json
+/home/patryk/OBRAZ_REKA/build/gra_autogen/include/../EWIEGA46WW/moc_bloczki.cpp.json
+/home/patryk/OBRAZ_REKA/build/gra_autogen/include/../EWIEGA46WW/moc_licznik.cpp.json

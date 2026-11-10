@@ -1,0 +1,14 @@
+--bare
+-I
+/home/patryk/OBRAZ_REKA/build
+-I
+/home/patryk/OBRAZ_REKA/build/ModulGry
+-I
+/home/patryk/OBRAZ_REKA/build
+-I
+/usr/lib/x86_64-linux-gnu/qt6/qml
+--resource
+/home/patryk/OBRAZ_REKA/build/.qt/rcc/qmake_ModulGry.qrc
+--resource
+/home/patryk/OBRAZ_REKA/build/.qt/rcc/gra_raw_qml_0.qrc
+/home/patryk/OBRAZ_REKA/plik2.qml

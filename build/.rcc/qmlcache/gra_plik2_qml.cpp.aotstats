@@ -1,0 +1,447 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 12,
+                            "message": "Cannot retrieve a non-object type by ID: logika_pilki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "onSygnal_koniec_gry",
+                            "line": 36,
+                            "message": "Could not find signal \"sygnal_koniec_gry\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 50,
+                            "message": "Cannot retrieve a non-object type by ID: okno_glowne"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "top",
+                            "line": 51,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalCenter",
+                            "line": 52,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 55,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 63,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 64,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 65,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 62,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 78,
+                            "message": "Cannot retrieve a non-object type by ID: logika_wyswietlacz"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 79,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 80,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 77,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 92,
+                            "message": "Cannot retrieve a non-object type by ID: logika_wyswietlacz"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 0,
+                            "functionName": "horizontalAlignment",
+                            "line": 93,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 94,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 91,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 11,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 109,
+                            "message": "Cannot retrieve a non-object type by ID: logika_bloczki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 11,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 110,
+                            "message": "Cannot retrieve a non-object type by ID: logika_bloczki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "target",
+                            "line": 121,
+                            "message": "Cannot access value for name logika_bloczki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "onSygnal_zniszczono_bloczek",
+                            "line": 123,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "target",
+                            "line": 136,
+                            "message": "Cannot retrieve a non-object type by ID: logika_bloczki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 9,
+                            "durationMicroseconds": 0,
+                            "functionName": "onSygnal_odbij_pilke",
+                            "line": 137,
+                            "message": "Cannot retrieve a non-object type by ID: logika_pilki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 151,
+                            "message": "Cannot retrieve a non-object type by ID: logika_belka"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 152,
+                            "message": "Cannot retrieve a non-object type by ID: logika_belka"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "onXChanged",
+                            "line": 153,
+                            "message": "Cannot retrieve a non-object type by ID: logika_pilki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "onPressed",
+                            "line": 159,
+                            "message": "Cannot retrieve a non-object type by ID: logika_belka"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "onPressed",
+                            "line": 159,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "spacing",
+                            "line": 177,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 176,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 179,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 72,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 179,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 109,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 179,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 183,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 72,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 183,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 109,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 183,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "spacing",
+                            "line": 191,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 190,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 193,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 74,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 193,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 197,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 74,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 197,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "spacing",
+                            "line": 204,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 203,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 206,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 70,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 206,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 46,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 210,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 70,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 210,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 64,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 222,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 8,
+                            "durationMicroseconds": 0,
+                            "functionName": "x",
+                            "line": 224,
+                            "message": "Cannot retrieve a non-object type by ID: logika_pilki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 8,
+                            "durationMicroseconds": 0,
+                            "functionName": "y",
+                            "line": 225,
+                            "message": "Cannot retrieve a non-object type by ID: logika_pilki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "onXChanged",
+                            "line": 227,
+                            "message": "Cannot retrieve a non-object type by ID: logika_bloczki"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "onYChanged",
+                            "line": 230,
+                            "message": "Cannot retrieve a non-object type by ID: logika_bloczki"
+                        }
+                    ],
+                    "filePath": "/home/patryk/OBRAZ_REKA/plik2.qml"
+                }
+            ],
+            "moduleId": "ModulGry(gra)"
+        }
+    ]
+}

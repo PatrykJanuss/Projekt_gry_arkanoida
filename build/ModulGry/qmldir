@@ -1,0 +1,5 @@
+module ModulGry
+typeinfo gra.qmltypes
+prefer :/ModulGry/
+depends QtQuick
+

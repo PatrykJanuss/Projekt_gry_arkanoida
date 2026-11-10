@@ -1,0 +1,170 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "Klasa_BLOCZKI",
+            "lineNumber": 18,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "kolumny",
+                            "type": "double"
+                        },
+                        {
+                            "name": "rozstaw",
+                            "type": "double"
+                        },
+                        {
+                            "name": "ilosc_bloczki",
+                            "type": "double"
+                        },
+                        {
+                            "name": "szerokosc_blok",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wysokosc_blok",
+                            "type": "double"
+                        },
+                        {
+                            "name": "szer_apka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wys_apka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "szer_licznik",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wys_licznik",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 3,
+                    "lineNumber": 29,
+                    "name": "wymiaryBloczki",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "szer_pilka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "wys_pilka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "pozycja_x_pilka",
+                            "type": "double"
+                        },
+                        {
+                            "name": "pozycja_y_pilka",
+                            "type": "double"
+                        }
+                    ],
+                    "index": 4,
+                    "lineNumber": 34,
+                    "name": "sprawdz_kolizje",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "indeks",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 5,
+                    "lineNumber": 37,
+                    "name": "zniszczenie_bloczek",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 22,
+                    "name": "pozycja_bx",
+                    "notify": "pozycja",
+                    "read": "czytaj_bx",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "lineNumber": 23,
+                    "name": "pozycja_by",
+                    "notify": "pozycja",
+                    "read": "czytaj_by",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "double",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Klasa_BLOCZKI",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 41,
+                    "name": "pozycja",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "indeks_trafionego",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 42,
+                    "name": "sygnal_zniszczono_bloczek",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 43,
+                    "name": "sygnal_odbij_pilke",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "bloczki.hpp",
+    "outputRevision": 69
+}

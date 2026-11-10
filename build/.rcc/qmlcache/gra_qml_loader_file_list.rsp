@@ -1,0 +1,5 @@
+--resource
+/home/patryk/OBRAZ_REKA/build/.qt/rcc/qmake_ModulGry.qrc
+--resource
+/home/patryk/OBRAZ_REKA/build/.qt/rcc/gra_raw_qml_0.qrc
+/ModulGry/plik2.qml
